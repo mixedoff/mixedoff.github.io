@@ -4737,7 +4737,7 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 	-webkit-overflow-scrolling: touch;
 	background: #ffffff;
 	box-shadow: none;
-	color: #212931;
+	color: #212431;
 	height: 100%;
 	max-width: 80%;
 	overflow-y: auto;
